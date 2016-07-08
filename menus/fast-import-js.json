@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Toggle fast-import-js",
+        "command": "fast-import-js:toggle"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "fast-import-js",
+          "submenu": [
+            {
+              "label": "Toggle",
+              "command": "fast-import-js:toggle"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

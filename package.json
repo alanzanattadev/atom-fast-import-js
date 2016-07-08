@@ -1,0 +1,16 @@
+{
+  "name": "fast-import-js",
+  "main": "./lib/fast-import-js",
+  "version": "0.0.0",
+  "description": "A short description of your package",
+  "keywords": [],
+  "repository": "https://github.com/atom/fast-import-js",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+    "camelcase": "^3.0.0",
+    "sub-atom": "^1.1.0"
+  }
+}
