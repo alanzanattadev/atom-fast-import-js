@@ -2,9 +2,9 @@
   "name": "fast-import-js",
   "main": "./lib/fast-import-js",
   "version": "0.0.0",
-  "description": "A short description of your package",
+  "description": "Import helper for javascript in Atom",
   "keywords": [],
-  "repository": "https://github.com/atom/fast-import-js",
+  "repository": "https://github.com/alanzanattadev/atom-fast-import-js",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
