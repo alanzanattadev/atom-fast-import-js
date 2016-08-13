@@ -16,3 +16,4 @@ If a variable name is selected, the specifier will be the variable name instead 
 - removes index.js and extensions
 - select parent folder name when index.js is imported
 - the path is computed automatically
+- paths are resolved successfully from relative modules (eg : file:../commons in package.json)
