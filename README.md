@@ -17,3 +17,5 @@ If a variable name is selected, the specifier will be the variable name instead 
 - select parent folder name when index.js is imported
 - the path is computed automatically
 - paths are resolved successfully from relative modules (eg : file:../commons in package.json)
+- config for quote type
+- config for semicolons
