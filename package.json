@@ -1,7 +1,7 @@
 {
   "name": "fast-import-js",
   "main": "./lib/fast-import-js",
-  "version": "0.5.2",
+  "version": "0.5.3",
   "description": "Import helper for javascript in Atom",
   "keywords": [],
   "repository": "https://github.com/alanzanattadev/atom-fast-import-js",
